@@ -2,7 +2,9 @@ const Cards = () => {
     return (
         <>
             {/* CARD FIRST */}
-            <div className="felx flex-wrap justify-content-center gap-3 border-2">
+            <div className="felx flex-wrap justify-content-center gap-3 border-2 w-full bg-amber-200">
+            <div className="felx flex-wrap justify-content-center gap-3 border-2 w-full bg-amber-200">
+            <div className="felx flex-wrap justify-content-center gap-3 border-2 w-full bg-amber-200">
 
             <div className="card mb-3 border-2" style={{ maxWidth: "540px" }}>
                 <div className="row g-0 border-2">
